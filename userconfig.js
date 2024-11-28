@@ -75,9 +75,9 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
+              name: "reddit",
+              url: "https://reddit.com",
+              icon: "brand-reddit",
               icon_color: palette.peach,
             },
             {
