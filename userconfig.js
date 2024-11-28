@@ -71,7 +71,7 @@ const default_config = {
             {
               name: "youtube",
               url: "https://www.youtube.com",
-              icon: "brand-youtube",
+              icon: "icon-brand-youtube",
               icon_color: palette.green,
             },
             {
