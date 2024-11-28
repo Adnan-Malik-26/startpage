@@ -72,7 +72,7 @@ const default_config = {
               name: "youtube",
               url: "https://www.youtube.com",
               icon: "brand-youtube",
-              icon_color: palette.green,
+              icon_color: palette.peach,
             },
             {
               name: "mil.in.ua",
