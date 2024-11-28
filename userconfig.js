@@ -92,12 +92,6 @@ const default_config = {
               icon: "eye-bolt",
               icon_color: palette.blue,
             },
-            {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
-              icon_color: palette.mauve,
-            },
           ],
         },
       ],
@@ -116,9 +110,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
+              name: "chatgpt",
+              url: "https://chatgpt.com/",
+              icon: "message-chatbot",
               icon_color: palette.peach,
             },
             {
@@ -133,21 +127,15 @@ const default_config = {
           name: "challenges",
           links: [
             {
-              name: "kaggle",
-              url: "https://www.kaggle.com",
-              icon: "brain",
-              icon_color: palette.green,
-            },
-            {
               name: "leetcode",
               url: "https://leetcode.com",
-              icon: "code-plus",
+              icon: "brand-leetcode",
               icon_color: palette.peach,
             },
             {
-              name: "exercism",
-              url: "https://exercism.org",
-              icon: "code-minus",
+              name: "hackerrank",
+              url: "https://www.hackerrank.com/",
+              icon: "brand-hackerrrank",
               icon_color: palette.red,
             },
             {
@@ -161,12 +149,6 @@ const default_config = {
         {
           name: "resources",
           links: [
-            {
-              name: "dou",
-              url: "https://dou.ua",
-              icon: "brand-prisma",
-              icon_color: palette.green,
-            },
             {
               name: "hackernews",
               url: "https://news.ycombinator.com",
@@ -203,9 +185,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
+              name: "whatsapp",
+              url: "https://www.web.whatsapp.com",
+              icon: "brand-whatsapp",
               icon_color: palette.peach,
             },
             {
@@ -217,30 +199,30 @@ const default_config = {
           ],
         },
         {
-          name: "gaming",
+          name: "media",
           links: [
             {
-              name: "IGN",
-              url: "https://www.ign.com/account/playlist/library",
-              icon: "device-gamepad",
+              name: "broflix",
+              url: "https://broflix.cc/download",
+              icon: "movie",
               icon_color: palette.green,
             },
             {
-              name: "steam",
-              url: "https://store.steampowered.com",
-              icon: "brand-steam",
+              name: "spotify",
+              url: "https://open.spotify.com/",
+              icon: "brand-spotify",
               icon_color: palette.peach,
             },
             {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
+              name: "forcoder",
+              url: "https://forcoder.net/",
+              icon: "code",
               icon_color: palette.red,
             },
             {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
+              name: "liber3 books",
+              url: "https://liber3.eth.limo/",
+              icon: "books",
               icon_color: palette.blue,
             },
           ],
@@ -249,8 +231,8 @@ const default_config = {
           name: "video",
           links: [
             {
-              name: "anilist",
-              url: "https://anilist.co/home",
+              name: "animeowl",
+              url: "https://animeowl.live/",
               icon: "brand-funimation",
               icon_color: palette.green,
             },
@@ -261,15 +243,15 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
+              name: "1337x",
+              url: "https://1337x.to",
+              icon: "affiliate",
               icon_color: palette.red,
             },
             {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
+              name: "twitch",
+              url: "https://twitch.tv",
+              icon: "brand-twitch",
               icon_color: palette.blue,
             },
           ],
